@@ -1,6 +1,6 @@
 # Blackshores
 
-A Guide for Wuthering Waves Players
+A Simple guide for Wuthering Waves Players
 
 # Feature : 
 - Resonator
