@@ -19,6 +19,6 @@
 
 # About Me
 
-Hi, My name is Arsh ( Noob Programmer ) i dedicated myself do solo project Wuthering Waves guides for all players. i started this project on **19 April 2025** and in this repository i just give y'all example about my project.
-
-# Big thanks to hakush.in, prydwen, WuWa wiki without them i can't get enough data.
+<p>Hi, My name is Arsh ( Noob Programmer ) i dedicated myself do solo project Wuthering Waves guides for all players. </p>
+<p>i started this project on 19 April 2025 and in this repository i just give y'all example about my project.</p>
+<p>Big thanks to Hakush.in, Prydwen, WuWa wiki without them i can't get enough data.</p>
