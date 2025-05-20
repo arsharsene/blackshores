@@ -1,4 +1,4 @@
-# blackshores
+# Blackshores
 
 A Guide for Wuthering Waves player
 
