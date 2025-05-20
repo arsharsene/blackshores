@@ -3,18 +3,18 @@
 A Simple guide for Wuthering Waves Players
 
 # Feature : 
-- Resonator
-- Weapon
-- Items
-- Plan
-- Team
-- Quests
-- Map
-- Data Bank
-- Synthesis
-- Achivement
-- Support me
-- About Me
+- Resonator (1%)
+- Weapon (UNTOUCHED)
+- Items (UNTOUCHED)
+- Plan (UNTOUCHED)
+- Team (UNTOUCHED)
+- Quests (UNTOUCHED)
+- Map (UNTOUCHED)
+- Data Bank (UNTOUCHED)
+- Synthesis (UNTOUCHED)
+- Achivement (UNTOUCHED)
+- Support me (UNTOUCHED)
+- About Me (UNTOUCHED)
 
 # About Me
 
