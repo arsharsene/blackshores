@@ -1,7 +1,7 @@
 # Blackshores
-![alt text]([http://url/to/img.png](https://github.com/arsharsene/blackshores/blob/master/assets/images/logo.png))
+<img src='https://github.com/arsharsene/blackshores/blob/master/assets/images/logo.png'/>
 
-A Simple guide for Wuthering Waves Players
+*A Simple guide for Wuthering Waves players*
 
 # Feature : 
 - Resonator (1%)
